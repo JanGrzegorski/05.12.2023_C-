@@ -1,0 +1,4 @@
+﻿  Zad2.cpp
+C:\Users\Programista\Desktop\05.12.2023_C-\Zad2\Zad2.cpp(8,5): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Programista\Desktop\05.12.2023_C-\Zad2\Zad2.cpp(9,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Zad2.vcxproj -> C:\Users\Programista\Desktop\05.12.2023_C-\Zad2\x64\Debug\Zad2.exe

@@ -8,3 +8,10 @@ funkcje które nas interesuję w nauce o vectorze
 -begin(); wskazuje pierwszy element dynamicznej tablicy
 -end(); wskazuje na koniec dynamicznej tablicy
 -size(); zwraca ilość elementów dodanych z tablicy
+
+Iterator jest związany z viktorem
+Iterator dynamicznej tablicy
+Iterator- wskaźnik wskazujący na okreslony el. tablicy.
+Można go edytować oraz za jego pomocą odwoływać się do określonego elementu tablicy.
+
+Używamy kiedy wskazujemy na określony el. tablicy
