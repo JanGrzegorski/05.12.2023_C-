@@ -1,0 +1,10 @@
+Vektory in C++
+
+Vector to kontener na dane, inaczej możemy powiedzieć dynamiczna tablica. Mamy dostęp do każdego elementu tej tablicy i możemy zwiększać tą tablicę w dowolym momencie.
+
+funkcje które nas interesuję w nauce o vectorze
+-push_back(); dodaje na koniec tablicy nowy element
+-insert();dodaje element do tablicy we wskazane miejsce
+-begin(); wskazuje pierwszy element dynamicznej tablicy
+-end(); wskazuje na koniec dynamicznej tablicy
+-size(); zwraca ilość elementów dodanych z tablicy
