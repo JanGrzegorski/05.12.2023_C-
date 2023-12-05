@@ -15,3 +15,8 @@ Iterator- wskaźnik wskazujący na okreslony el. tablicy.
 Można go edytować oraz za jego pomocą odwoływać się do określonego elementu tablicy.
 
 Używamy kiedy wskazujemy na określony el. tablicy
+
+Utwórz dynamiczną tablice o nazwie księgowość.
+dynamiczna tablica przechowuje kwoty wpłat klientów 
+napisz na konsole za pomocą aplikacja a)wskaźników b)vektora bez iteratora c)vektor z iteratorem
+Które obliczają sumę wpłat minimalną maksymalną oraz wyznaczają średnią 
